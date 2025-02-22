@@ -2,3 +2,5 @@ interface Loopback1
  ip address 1.1.1.1 255.255.255.255
 interface Loopback2
  ip address 2.2.2.2 255.255.255.255
+interface Loopback3
+ ip address 3.3.3.3 255.255.255.255
